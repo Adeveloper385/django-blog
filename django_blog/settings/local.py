@@ -16,3 +16,5 @@ DATABASES = {
 
 
 STATICFILES_DIRS = (BASE_DIR, 'static')
+
+STATIC_ROOT = 'template-for-django-blog/heroku.com/static'
