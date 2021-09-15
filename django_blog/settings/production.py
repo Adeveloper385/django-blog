@@ -9,7 +9,7 @@ ALLOWED_HOSTS = ['djangoblogtemplate.herokuapp.com']
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.postgresql_psycogp2',
+        'ENGINE': 'django.db.backends.postgresql',
         'NAME': 'dbffhn4tvch48q',
         'PORT': 5432,
         'USER': 'ltyxzztyhxxsqo',
